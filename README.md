@@ -33,8 +33,8 @@ I faced some challenges in creating the theme mode, as I didn't want to use redu
 
                                         LINK TO THE APK
 
-https://drive.google.com/file/d/1D6I4E44W98KzlsrqugQkSWlqIZLa6W7H/view?usp=share_link
+https://drive.google.com/file/d/1PsFHBNAcsWKCHOgclLSIVet38VhrBnF0/view?usp=share_link
 
                                         LINK TO THE APPETIZE IO
 
-https://appetize.io/app/bfttscmaubd2s7qdxrzl7q2aly?device=pixel4&osVersion=11.0&scale=75
+https://appetize.io/app/e2rmo6btmlouvzhjmmdd4qhcfm?device=pixel4&osVersion=11.0&scale=75
