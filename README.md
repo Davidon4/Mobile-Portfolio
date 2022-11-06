@@ -29,7 +29,7 @@ With time running out on me, I wasn't able to implement the multi language featu
 
                                 CHALLENGES I FACED AND HOW I SOLVED THEM
 
-I faced some challenges in creating the theme mode, as I didn't want to use redux to pass to pass events, Another challenge I faced was setting the screen to accept a landscape mode as I had already finished designing before I saw it, so I had to restructure my designs to fit in and accept the landscape mode.
+I faced some challenges in creating the theme mode, as I didn't want to use redux to pass to pass events, Another challenge I faced was setting the screen to accept a landscape mode as I had already finished designing before I saw it, so I had to restructure my designs to fit in and accept the landscape mode. I uploaded the wrong apk, But I have been been able to solve that with a new build.
 
                                         LINK TO THE APK
 
