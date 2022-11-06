@@ -30,3 +30,11 @@ With time running out on me, I wasn't able to implement the multi language featu
                                 CHALLENGES I FACED AND HOW I SOLVED THEM
 
 I faced some challenges in creating the theme mode, as I didn't want to use redux to pass to pass events, Another challenge I faced was setting the screen to accept a landscape mode as I had already finished designing before I saw it, so I had to restructure my designs to fit in and accept the landscape mode.
+
+                                        LINK TO THE APK
+
+https://drive.google.com/file/d/1D6I4E44W98KzlsrqugQkSWlqIZLa6W7H/view?usp=share_link
+
+                                        LINK TO THE APPETIZE IO
+
+https://appetize.io/app/bfttscmaubd2s7qdxrzl7q2aly?device=pixel4&osVersion=11.0&scale=75
