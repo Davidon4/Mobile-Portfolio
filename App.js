@@ -1,3 +1,4 @@
+import { StatusBar } from "expo-status-bar";
 import React, { useState, useEffect } from "react";
 import AppNavigator from "./navigation/AppNavigator";
 import { EventRegister } from "react-native-event-listeners";
@@ -24,10 +25,13 @@ export default function App() {
     };
   }, []);
   return (
+    <>
     <ThemeContext.Provider value={mode === true ? theme.light : theme.dark}>
       <NavigationContainer theme={mode === true ? DefaultTheme : DarkTheme}>
         <AppNavigator />
       </NavigationContainer>
     </ThemeContext.Provider>
+    <StatusBar style="auto" />
+    </>
   );
 }
